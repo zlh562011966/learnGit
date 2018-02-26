@@ -18,7 +18,7 @@
 9.2 浏览器缓存过程
 9.3 浏览器常用刷新操作
 
-
+111111
 1. 快速理解HTTP协议
 2. 关于HTTP协议，一篇就够了
 https://hit-alibaba.github.io/interview/basic/network/HTTP.html
