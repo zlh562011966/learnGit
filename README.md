@@ -18,3 +18,5 @@
 
 
 
+### 其他
+* [危险的 target="_blank"](https://github.com/zlh562011966/mySpace/issues/4)
